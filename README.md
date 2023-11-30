@@ -1,5 +1,5 @@
 ### 获取地址:
-#### 项目获取地址：https://www.666bear.com/3828.html
+#### 项目获取地址：https://www.666bear.com/3761.html
 #### qq 3289948684
 #### 项目演示地址：https://space.bilibili.com/351929960?spm_id_from=333.1007.0.0
 #### 接毕业设计和论文
@@ -35,7 +35,15 @@ JDK版本：1.8
 项目管理：Maven
 Node版本：14
 #### 四、运行截图（点图片可放大）
+![Uploading 1701223006012.jpg…]()
 
+![Uploading 1701222566925.jpg…]()
+![Uploading 1701222586495.jpg…]()
+![1701222613350](https://github.com/666bears/Second-hands/assets/143094776/0dd0d3d7-cb37-436b-a32f-4fc626b0025d)
+![1701222628815](https://github.com/666bears/Second-hands/assets/143094776/6bf388f5-bc92-4d5e-9966-3c8181b0a375)
+![1701222670234](https://github.com/666bears/Second-hands/assets/143094776/0fc25107-62d7-4522-a313-5c9fa4f43a0d)
+![1701222926365](https://github.com/666bears/Second-hands/assets/143094776/a7f40446-0ed0-4d2b-be94-eb3d89cfa0fc)
+![1701222958394](https://github.com/666bears/Second-hands/assets/143094776/0107b094-d46b-4723-8e2c-8db313313461)
 
 
 
